@@ -13,7 +13,7 @@ This projects goal is to clean and analyze the World_Layoff Dataset.
 - Tableau — interactive dashboard
 
 ## Key Findings
-1. [Most important finding with specific number]
+1. []
 2. [Second finding]
 3. [Third finding]
 
@@ -22,8 +22,7 @@ This projects goal is to clean and analyze the World_Layoff Dataset.
 - [Second recommendation]
 
 ## Files
-- `data_cleaning.sql` — SQL queries for data preparation
-- `analysis.ipynb` — Jupyter notebook with full analysis
+- `Data_Cleaning.sql` — SQL queries for data preparation
 - `dashboard_link` — [Tableau Public dashboard](link)
 
 ## Methodology
