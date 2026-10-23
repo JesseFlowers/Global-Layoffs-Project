@@ -9,7 +9,7 @@ This projects goal is to clean and analyze the World_Layoff Dataset.
 - **Description:** [This dataset contains information for various companies including their location, industry, total number of laid off employees, date, country, funds raised in millions]
 
 ## Tools Used
-- SQL (MySQL) — data querying, cleaning, aggregation and exploratory data analysis
+- MySQL — data querying, cleaning, aggregation and exploratory data analysis
 - Tableau — interactive dashboard
 
 ## Key Findings
