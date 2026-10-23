@@ -4,7 +4,7 @@
 This projects goal is to clean and analyze the World_Layoff Dataset.
 
 ## Dataset
-- **Source:** [layoffs.csv].
+- **Source:** [https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv].
 - **Size:** [2362 rows. 1 file]
 - **Description:** [This dataset contains information for various companies including their location, industry, total number of laid off employees, date, country, funds raised in millions]
 
@@ -13,9 +13,9 @@ This projects goal is to clean and analyze the World_Layoff Dataset.
 - Tableau — interactive dashboard
 
 ## Key Findings
-1. []
-2. [Second finding]
-3. [Third finding]
+1. [The consumer and retail industries experienced the most layoffs between the years of 2020-2023.]
+2. [The United States experienced significantly more layoffs than every other country during this time.]
+3. [Amazon, Google, and Meta were the companies who experienced the most layoffs during this time.]
 
 ## Recommendations
 - [Actionable recommendation based on findings]
@@ -23,7 +23,8 @@ This projects goal is to clean and analyze the World_Layoff Dataset.
 
 ## Files
 - `Data_Cleaning.sql` — SQL queries for data preparation
-- `dashboard_link` — [Tableau Public dashboard](link)
+- `EDA.sql` - SQL queries for data analysis
+- `dashboard_link` — [Tableau Public dashboard](https://public.tableau.com/app/profile/jesse.flores8347/viz/GlobalLayoffsDashboard_17895267027320/Dashboard1)
 
 ## Methodology
-[2-3 paragraphs explaining approach, assumptions, and limitations]
+
